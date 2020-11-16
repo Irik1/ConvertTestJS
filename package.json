@@ -1,0 +1,20 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@microsoft/office-js": "^1.1.43",
+    "docxmarks": "^2.2.4",
+    "docxtemplater": "^3.19.7",
+    "officegen": "^0.6.4",
+    "openxml": "github:jthuraisamy/openxml",
+    "pizzip": "^3.0.6"
+  }
+}
